@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("initial commit!\n");
+    printf("version 1\n");
     return 0;
 }
